@@ -1,8 +1,15 @@
-# Codestyles
+# DVBern Code Styles
 
-This repository holds DVBern Code Conventions, Code Styles and Inspeciton files
+This repository contains DVBern Code Styles and Inspection settings.
 
-[Code Style](src!IDE-settings!IntelliJ!DVBern-Conventions-2017-05-29.xml)(Add Scheme under Project Settings > Editor > Code Style)
+## IntelliJ
 
-[Inspections](src!IDE-settings!IntelliJ!DVBern_Inspections_2017_05_19.xml)(Add Profile under Project Settings > Editor > Inspections)
+### Code Styles
+1. Go to Settings
+2. Then go to Editor > Code Style
+3. Import the scheme as "Intellij IDEA code style XML"
 
+### Inspections
+1. Go to Settings
+2. Then go to Editor > Inspections
+3. Import the profile
