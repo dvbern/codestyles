@@ -1,5 +1,5 @@
 <profile version="1.0" is_locked="false">
-  <option name="myName" value="DVBern-Inspections-2022-08-19" />
+  <option name="myName" value="DVB-2022-08-19-Inspections" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AbstractClassExtendsConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractClassNeverImplemented" enabled="true" level="WARNING" enabled_by_default="true" />
